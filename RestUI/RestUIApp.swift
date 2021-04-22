@@ -11,7 +11,7 @@ import SwiftUI
 struct RestUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            UAView()
         }
     }
 }
